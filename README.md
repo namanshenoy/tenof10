@@ -1,4 +1,4 @@
-# READ THIS:<br />
+READ THIS:
 =============
 
 So here is a basic starter project for tenof10 with csv file included.
